@@ -1,5 +1,10 @@
 const { Sequelize } = require("sequelize");
 
+/****DataBase Configuration
+*DataBaseName: shop
+*username: root
+*password: 123456
+*/
 const sequelizeInstance= new Sequelize("shop",'root','123456',{
     host:"localhost",
     dialect:"mysql"
