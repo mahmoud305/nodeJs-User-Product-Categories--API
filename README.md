@@ -1,4 +1,5 @@
-# nodeJs-User-Product-Categories--API</br> using mysql --> sequelize
+# nodeJs-User-Product-Categories--API
+**using mysql --> sequelize**
 ## how to run : download the code open it with your editor (ex: VScode) open terminal then run (npm install) to download the modules file , - *change the database Configiration at the dbconfig.js file to your setup* -.
 
 ### the DataBase contain three tables which are :
